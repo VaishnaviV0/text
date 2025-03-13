@@ -1,7 +1,7 @@
 streamlit
 langchain
 langchain_community
-longchain_groq
+longchain-groq
 groq
 tiktoken
 transformers
